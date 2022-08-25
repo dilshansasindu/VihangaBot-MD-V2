@@ -16,6 +16,10 @@ global.APIKeys = {
 	'https://dapuhy.xyz': 'piceg'
 }
 
+//settings
+global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
+global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
+
 //Owner React
 global.OWNER_REACT = '👩‍💻' //මෙතනට emoji එකක දාන්න.
 global.REACT_NUMBER = '947405934690' //මෙතන number එක.
