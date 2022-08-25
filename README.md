@@ -1,4 +1,4 @@
-# VIHANGA-BOT-MD
+# DILSHAN-BOT-MD
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
@@ -34,7 +34,7 @@
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V2/fork)
+2. Click [FORK](https://github.com/vihagayt0/VihangaBot-MD-V2/fork)
 
 2. After That Upload Session.json File
 
@@ -44,7 +44,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Dilshan-YT`](https://github.com/dilshanyt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
