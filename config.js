@@ -21,19 +21,19 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 
 //Owner React
-global.OWNER_REACT = '👩‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '947405934690' //මෙතන number එක.
+global.OWNER_REACT = '' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '' //මෙතන number එක.
 
 // Other
-global.owner = ['94740593890',''] //මෙතන number එක.
-global.premium = ['947405&%3890','94740595&890'] //මෙතන number එක.
+global.owner = ['94762517411',''] //මෙතන number එක.
+global.premium = ['94762517411','94762517411'] //මෙතන number එක.
 global.botname = 'DILSHAN BOT INC' //මෙතන නම.
 global.ownername = 'Dilshan  MD' //මෙතන නම.
 global.ownername = 'DILSHAN BOT' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/LS7XEkrGE6K6vAqmp2gbog' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/LS7XEkrGE6K6vAqmp2gbog' //මෙතන grouplink එක.
 global.packname = 'DILSHAN BOT INC' //මෙතන නම.
-global.cap = '*By Dilshan MD*' //මෙතන නම.
+global.cap = '*By Dilshan sasindu MD 👩‍💻*' //මෙතන නම.
 global.img = 'https://i.ibb.co/qWdD4cC/Screenshot-20220805-235207-UC-Browser.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
@@ -56,11 +56,11 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'DILSHAN BOT INC' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
-global.sp = '⭔' //මෙතන emoji එකක්.
+global.sp = '😎' //මෙතන emoji එකක්.
 global.mess = {
     success: '*හරි*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
